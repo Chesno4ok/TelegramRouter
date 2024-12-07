@@ -1,0 +1,12 @@
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\TelegramRouter.csproj.AssemblyReference.cache
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\TelegramRouter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\TelegramRouter.AssemblyInfoInputs.cache
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\TelegramRouter.AssemblyInfo.cs
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\TelegramRouter.csproj.CoreCompileInputs.cache
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\bin\Debug\net8.0\TelegramRouter.deps.json
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\bin\Debug\net8.0\TelegramRouter.dll
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\bin\Debug\net8.0\TelegramRouter.pdb
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\TelegramRouter.dll
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\refint\TelegramRouter.dll
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\TelegramRouter.pdb
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\ref\TelegramRouter.dll

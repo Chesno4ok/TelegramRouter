@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RC2TT+oag9jckufehJwfIGddb8Bo+EypE6SLEuzZ4KZz0/ibXcQfc7upVkGl+rHeXafJFPkZS73fkugpWfJ9yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chesn\\source\\repos\\TelegramRouter\\TelegramRouter\\TelegramRouter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chesn\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\chesn\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\chesn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\chesn\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\chesn\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\chesn\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\chesn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\chesn\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\chesn\\.nuget\\packages\\telegram.bot\\22.2.0\\telegram.bot.22.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
