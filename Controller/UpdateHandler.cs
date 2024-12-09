@@ -13,7 +13,7 @@ using System.Text.RegularExpressions;
 
 namespace TelegramRouter.Controller
 {
-    class UpdateHandler : IUpdateHandler
+    internal class UpdateHandler : IUpdateHandler
     {
         BotRouter BotRouter;
 
@@ -45,6 +45,7 @@ namespace TelegramRouter.Controller
                 await BotRouter.ControllerContext.CreateContext(newContext);
                 userContext = newContext;
             }
+
             if (IsCommand(update))
             {
                 await BotRouter.RouteController(new Update(), userContext, ControllerState.Last);

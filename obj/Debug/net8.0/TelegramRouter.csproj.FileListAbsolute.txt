@@ -10,3 +10,4 @@ C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\Teleg
 C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\refint\TelegramRouter.dll
 C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\TelegramRouter.pdb
 C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\ref\TelegramRouter.dll
+C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\obj\Debug\net8.0\TelegramRouter.sourcelink.json

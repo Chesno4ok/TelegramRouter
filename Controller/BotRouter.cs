@@ -28,21 +28,18 @@ namespace TelegramRouter.Controller
             IEnumerable<Type> types = assembly.GetTypes().Where(i => i.GetCustomAttribute<ControllerRoute>() is not null
             && i.IsSubclassOf(typeof(ControllerBase)));
 
+            if (types.Count() == 0)
+                throw new InvalidOperationException("No controllers were found in the project!");
+
             foreach (var i in types)
             {
                 string route = i.GetCustomAttribute<ControllerRoute>()!.Route;
-                var controller = (ControllerBase?)Activator.CreateInstance(i);
-
-                if (controller == null)
-                    continue;
-
-                Controllers.Add(route, controller.GetType());
+                Controllers.Add(route, i);
             }
 
 
             BotClient = new TelegramBotClient(token);
             BotClient.StartReceiving(new UpdateHandler(this));
-
 
             ControllerContext = controllerContext;
         }

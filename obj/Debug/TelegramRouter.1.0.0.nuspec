@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TelegramRouter</id>
+    <version>1.0.0</version>
+    <authors>TelegramRouter</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="41510f938217de162fb4fe934885f061933ddec6" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="Telegram.Bot" version="22.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\chesn\source\repos\TelegramRouter\TelegramRouter\bin\Debug\net9.0\TelegramRouter.dll" target="lib\net9.0\TelegramRouter.dll" />
+  </files>
+</package>

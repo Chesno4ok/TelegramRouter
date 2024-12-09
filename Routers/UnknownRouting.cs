@@ -10,7 +10,7 @@ using TelegramRouter.Controller;
 
 namespace TelegramRouter.Routers
 {
-    class UnknownRouting : IMethodRouter
+    internal class UnknownRouting : IMethodRouter
     {
         public async Task<MethodInfo?> Handle(ControllerBase controllerBase, Update update)
         {
